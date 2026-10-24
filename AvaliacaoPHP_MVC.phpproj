@@ -1,0 +1,18 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>1555b7ab-0314-b726-3292-787d43692738</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="app\Controllers\" />
+    <Folder Include="app\Models\" />
+    <Folder Include="app\Config\" />
+    <Folder Include="app\Views\layouts\" />
+    <Folder Include="app\Views\auth\" />
+    <Folder Include="app\Views\categorias\" />
+    <Folder Include="app\Views\livros\" />
+  </ItemGroup>
+</Project>
