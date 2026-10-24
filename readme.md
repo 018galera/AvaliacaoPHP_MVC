@@ -1,4 +1,4 @@
-﻿# BiblioSys - Sistema de Gestão de Acervo (Avaliação II)
+﻿# BiblioSys - Sistema de Gestão de Acervo (Avaliação III)
 
 Este projeto consiste em uma aplicação web completa para o gerenciamento de uma biblioteca, desenvolvida como requisito para a Avaliação II da disciplina de Linguagem de Programação PHP. O sistema foi construído utilizando os conceitos mais modernos da linguagem, aplicando a arquitetura MVC (Model-View-Controller) de forma estrita e um banco de dados simulado em sessão.
 
